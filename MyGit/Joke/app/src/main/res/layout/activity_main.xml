@@ -13,12 +13,6 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         android:onClick="onClick"
-        android:textSize="56sp"
         android:text="@string/question" />
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textSize="55sp"
-        android:text="Mirshodbek" />
 </LinearLayout>
